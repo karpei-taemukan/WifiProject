@@ -45,7 +45,7 @@
 
 
 function getPositionSelect(){
-setTimeout(()=>{console.log("db update가 웹에 바로 안되서 1초 기다림")},100)
+setTimeout(()=>{console.log("db update가 웹에 바로 안되서 0.1초 기다림")},100)
 }
 
 
